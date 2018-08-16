@@ -2,17 +2,9 @@
 
 > A Vue.js project
 
-## Build Setup
+## 图片展示
 
-``` bash
-# install dependencies
-npm install
+![image](https://github.com/bailingshiva/vue-aker-edit/blob/master/static/bianjikuan.png)
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## npm地址
+https://www.npmjs.com/package/vue-aker-edit
